@@ -30,7 +30,7 @@ img
 .child
 {
 	grid-column: 1/ span 2;
-	grid-row: 2;
+	grid-row: 1/ span 2;
 	font-family: "Arial Black";
 	font-size: 15px;
 }
