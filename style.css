@@ -1,6 +1,6 @@
 body
 {
-	background: url("backgroundHxH.jpg") fixed;
+	background: url("backgroundHxH.jpg") fixed no-repeat;
 }
 img 
 {
